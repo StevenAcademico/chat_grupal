@@ -1,0 +1,25 @@
+.input-app{
+    border: 1px solid #BDBDBD;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background: transparent;
+    width: 100%;
+    padding: 10px 10px 10px 35px;
+    color: #fff;
+}
+
+.input-app:focus-visible{
+    outline: none;
+}
+
+.form-content-input{
+    position: relative;
+}
+
+.icon-input{
+    position: absolute;
+    color: #828282;
+    top: 20.67%;
+    bottom: 16.67%;
+    left: 10px;
+}
